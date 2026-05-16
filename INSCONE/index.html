@@ -27,12 +27,13 @@
   html { scroll-behavior: smooth; }
   body {
     margin: 0;
-    font-family: "Noto Sans", "Google Sans", -apple-system, BlinkMacSystemFont, sans-serif;
+    font-family: "Times New Roman", Times, serif;
     color: var(--fg);
     background: var(--bg);
     line-height: 1.65;
-    font-size: 17px;
+    font-size: 18px;
   }
+  h1, h2, h3, h4, th, .badge, .stat-tile .stat-num, .stat-tile .stat-label, .subtitle, .authors, .affiliation, .caption, .small, .phase-chip, .bar-row .label, .bar-row .val, .card h4, .card p, .lead, p, td, code, pre, .mono { font-family: "Times New Roman", Times, serif !important; }
   .container { max-width: 920px; margin: 0 auto; padding: 0 24px; }
   header.hero {
     padding: 90px 0 60px;
@@ -67,6 +68,7 @@
     text-transform: uppercase;
     margin-bottom: 22px;
   }
+  .tagline { font-size: 1.1rem; color: #2a2f44; font-style: italic; margin: 4px 0 24px; }
   .authors { font-size: 1.05rem; margin-bottom: 6px; line-height: 1.9; }
   .affiliation { color: var(--muted); font-size: 0.95rem; margin-bottom: 28px; }
   .badges { display: flex; gap: 10px; justify-content: center; flex-wrap: wrap; margin-top: 22px; }
@@ -198,9 +200,10 @@
 
 <header class="hero">
   <div class="container">
-    <div class="subtitle">CS 639 · UW–Madison · Spring 2026</div>
-    <h1 class="title">INSCONE: Unknown-Aware Detection of<br/>LLM-Generated Text via Informed Wild Data</h1>
-    <div class="authors">Mark Stanley · Samad Syed · Masa Abboud · Saira Khatoon · Fairoz Khan</div>
+    <div class="subtitle">CS 639 · University of Wisconsin–Madison · 2026</div>
+    <h1 class="title">INSCONE: Unknown-Aware Detection of LLM-Generated Text via Informed Wild Data</h1>
+    <div class="tagline">Informed SCONE for zero-shot generalization to unseen LLM families</div>
+    <div class="authors">Mark Stanley, Masa Abboud, Saira Khatoon, Fairoz Khan, Samad Syed</div>
     <div class="affiliation">University of Wisconsin–Madison</div>
     <div class="badges">
       <a class="badge accent" href="INSCONE-paper.pdf">
