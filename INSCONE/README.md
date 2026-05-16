@@ -2,9 +2,9 @@
 
 Project page for our CS 639 (UW–Madison) research paper.
 
-**Live site:** https://fairozkhan10.github.io/research/
+**Live site:** https://fairozkhan10.github.io/research/INSCONE/
 
-**Authors:** Mark Stanley, Samad Syed, Masa Abboud, Saira Khatoon, Fairoz Khan
+**Authors:** Mark Stanley, Masa Abboud, Saira Khatoon, Fairoz Khan, Samad Syed
 
-- [Paper (PDF)](paper.pdf)
+- [Paper (PDF)](INSCONE-paper.pdf)
 - See [`index.html`](index.html) for the project page source.
