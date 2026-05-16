@@ -1,6 +1,6 @@
 # INSCONE: Unknown-Aware Detection of LLM-Generated Text via Informed Wild Data
 
-Project page for our CS 639 (UW–Madison) research paper.
+Project page for our CS 639 (University of Wisconsin-Madison) research paper.
 
 **Live site:** https://fairozkhan10.github.io/research/INSCONE/
 
