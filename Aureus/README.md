@@ -1,6 +1,6 @@
 # Aureus: A Multi-Agent AI Accounting Assistant
 
-Capstone project page for C S 620 (University of Wisconsin&ndash;Madison), industry partner Denari.
+Capstone project page for CS 620 (University of Wisconsin&ndash;Madison), industry partner Denari.
 
 **Live site:** https://fairozkhan10.github.io/research/Aureus/
 
